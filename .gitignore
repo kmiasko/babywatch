@@ -1,0 +1,8 @@
+.uv-cache/
+.venv/
+cache/
+labels/review/
+labels/sheets/
+*.pt
+.uv-python/
+dist/
