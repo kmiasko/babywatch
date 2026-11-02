@@ -3,6 +3,7 @@ name = "babywatch"
 version = "0.1.0"
 description = "Notify when a baby sits or stands in the crib (nanny-cam RTSP stream), suppressed while an adult is in view"
 readme = "README.md"
+license = "MIT"
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "torch>=2.5",

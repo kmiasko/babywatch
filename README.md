@@ -62,3 +62,7 @@ babywatch train --configs dinov2_b@224 siglip2_b@224
 `{"ts": "...", "notify": true, "state": "upright", "adult": false, "p": 0.99}`.
 
 Full architecture, usage and retraining guide: [docs/architecture-and-usage.md](docs/architecture-and-usage.md).
+
+## License
+
+[MIT](LICENSE)
